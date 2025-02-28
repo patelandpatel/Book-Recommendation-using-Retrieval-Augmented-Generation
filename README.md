@@ -121,7 +121,7 @@ cd book-recommendation-rag
 ---
 
 ## **📜 License**
-This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
+This project is licensed under the **MIT License**
 
 ---
 
@@ -130,13 +130,4 @@ This project is licensed under the **MIT License** – see the [LICENSE](LICENSE
 - **FAISS & ChromaDB** for efficient similarity search
 - **Kaggle** for the dataset
 
----
 
-## **📬 Contact**
-For questions or collaborations, feel free to reach out:
-- **GitHub:** [your-username](https://github.com/your-username)
-- **Email:** your.email@example.com
-
----
-
-This README file is structured for clarity, completeness, and easy navigation for anyone visiting your GitHub repository. Let me know if you'd like any modifications! 🚀
