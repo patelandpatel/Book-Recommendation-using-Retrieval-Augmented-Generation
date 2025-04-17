@@ -12,7 +12,7 @@ This project develops a **chatbot for personalized book recommendations** using 
 - **LLM-powered Recommendations:** Generates book suggestions based on user preferences.
 - **Efficient Data Processing:** Indexes and retrieves book descriptions and genres from a **10K book dataset**.
 - **Customizable:** Can be extended to support more genres, authors, or datasets.
-
+- 
 ---
 
 ## **📂 Dataset**
