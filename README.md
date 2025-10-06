@@ -2,7 +2,6 @@
 The project develops a chatbot using Retrieval Augmented Generation with a vector database to provide personalized book recommendations. It understands text similarity and generates relevant suggestions based on a user’s liked books, enhancing recommendation accuracy and user experience
 ### **Personalized Book Recommendation Chatbot using RAG*
 
-
 ## **📌 Overview**
 This project develops a **chatbot for personalized book recommendations** using **Retrieval Augmented Generation (RAG)** and a **vector database**. The system efficiently retrieves relevant book data and generates high-quality recommendations by leveraging **embedding models** and **LLMs (Large Language Models)**.
 
